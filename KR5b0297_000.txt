@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:15:55.924277
-#+TITLE: 神仙感遇傳
-#+PROPERTY: DZID  DZ0592
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，10—881 五卷 洞玄部記傳類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
